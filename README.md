@@ -1,6 +1,6 @@
 # Hi, I'm Ernando Kasaluhe 👋
 
-Senior iOS Developer
+iOS Developer
 
 ## Skills
 - Swift
